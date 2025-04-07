@@ -21,7 +21,7 @@ Ce projet est une application console en Python permettant de gérer une petite 
 
 1. **Lancer le programme** (Python 3 requis) :
    ```bash
-   python3 nom_du_script.py
+   python3 console_library.py
    ```
 
 2. **Menu principal** :
